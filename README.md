@@ -1,12 +1,10 @@
 # Smart-Schools-on-Arduino
-Our Smart Schools resource provides accessible and engaging projects for teachers and learners that utilise the more advanced features of Arduino in real-world contexts. It presents real problems that need solving with technology with all the associated teaching and learning resources such as slides, lesson plans, activities as well as solution guides/cheat sheets for non-specialists.
+Our Smart Schools resource provides accessible and engaging projects for teachers and learners that utilise the more advanced features of Arduino in real-world contexts. It presents real problems that need solving with technology with all the associated teaching and learning resources such as slides, lesson plans, activities as well as solution guides/cheat sheets for non-specialists. The resources are split into Key Stages (3-5) with 3 courses per key stage.
 
-The resources are split into Key Stages (3-5) with 3 courses per key stage.
+## [Download here](https://github.com/arm-university/smart-schools-on-arduino/archive/refs/heads/main.zip)
 
 ## Resource Aim
 To introduce learners to Arduino and Physical Computing and the Internet of Things, through engaging hands-on, real-world projects.
-
-## [Download here](https://github.com/arm-university/smart-schools-on-arduino/archive/refs/heads/main.zip)
 
 ## Learning Outcomes
 - To understand what the Internet of Things is, and how it is enabled by embedded systems
